@@ -1,2 +1,2 @@
-# AppzumMittag
+# App zum Mittag
 Mittagstischapp 
